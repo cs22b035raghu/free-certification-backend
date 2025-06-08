@@ -1,0 +1,26 @@
+{
+  "name": "backend-projs",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs22b035raghu/free-certification-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/cs22b035raghu/free-certification-backend/issues"
+  },
+  "homepage": "https://github.com/cs22b035raghu/free-certification-backend#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0"
+  }
+}
